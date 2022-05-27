@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+
+        <div class="">
+            <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ulysse Berra!</h1>
+
+            <p>I am a novice software developer specializing in full-stack web development and mobile development.</p>
+            <p>I am also a musician, and have been playing guitar, singing, writing and producing songs for a few years now.</p>
+            <p>I create content on my Medium account, mostly about programming, technology and music.</p>
+        </div>
+        
+        <div class="">
+            <h2>Technologies I know</h2>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3 Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50" height="50"/> <img src="https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Logo.jpg" alt="GitHub Logo" width="75" height="50"/> <img src="https://pngimg.com/uploads/linux/linux_PNG42.png" alt="Linux Logo" width="50" height="50"/>
+            
+            <h2>Technologies I'm learning at the moment</h2>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js Logo" width="50" height="50"/> <img src="https://ih1.redbubble.net/image.438908244.6144/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.jpg" alt="ExpressJS Logo" width="40" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL Logo" width="50" height="50"/>
+        </div>
+
+        <div class="">
+            <h2>My GitHub stats</h2>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlysseBerra&amp;theme=radical" alt="Top Languages"></a>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=UlysseBerra&amp;theme=radical" alt="Ulysse&#39;s GitHub stats"></a>
+        </div>
+
+    </div>
+  </foreignObject>
+</svg>
