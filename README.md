@@ -21,4 +21,4 @@ I am also a musician, and have been playing guitar, singing, writing and produci
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlysseBerra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ulysse's GitHub stats](https://github-readme-stats.vercel.app/api?username=UlysseBerra](https://github.com/anuraghazra/github-readme-stats)
+[![Ulysse's GitHub stats]([https://github-readme-stats.vercel.app/api?username=UlysseBerra](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=UlysseBerra))
