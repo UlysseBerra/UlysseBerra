@@ -24,4 +24,4 @@ I love coding. I started as a kid, with Scratch, and then Python, which is when 
                     </p>
                     
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UlysseBerra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=UlysseBerra&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs?username=UlysseBerra&theme=radical)
