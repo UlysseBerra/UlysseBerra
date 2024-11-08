@@ -1,15 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ulysse Berra!
-
----
-
-I am a coding enthusiast and lifelong learner!
-
-I love coding. I started as a kid, with Scratch, and then Python, which is when my passion for software development took off. Since then, I have worked on a lot of projects (not all of them are on my GitHub yet, unfortunately!), and learned many more languages.
-
-*   🌍  I'm based in Paris, France
-*   ✉️  You can contact me at [ulysse.berra@gmail.com](mailto:ulysse.berra@gmail.com)
-
----
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Technologies I know**
 
